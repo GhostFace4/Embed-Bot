@@ -18,3 +18,5 @@ I got all of the codes from https://discord.js.org/#/docs/main/stable/typedef/Me
 but i just made its easy for yall
 
 IF you are using Repl delete the repl file
+
+join my discord https://discord.gg/JMrFcedVbq
