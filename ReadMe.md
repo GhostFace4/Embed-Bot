@@ -17,3 +17,4 @@ use this for your perfect embed message please test around first
 I got all of the codes from https://discord.js.org/#/docs/main/stable/typedef/MessageEmbedOptions
 but i just made its easy for yall
 
+IF you are using Repl delete the repl file
